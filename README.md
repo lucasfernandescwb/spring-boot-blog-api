@@ -24,7 +24,7 @@ Cria uma nova postagem.
 ```json
 {
   "name": "JAVA IS INSANE!!",
-  "content": "Lorem ipsum dolor sit amet consectetur, God is great!",
+  "content": "Lorem ipsum dolor sit amet consectetur",
   "postedBy": "Lucas F. Lima",
   "img": "https://img.freepik.com/free-photo/anime-eyes-illustration_23-2150404884.jpg",
   "tags": ["Java", "SpringBoot", "Programming"]
