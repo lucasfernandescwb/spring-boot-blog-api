@@ -94,7 +94,7 @@ http://localhost:8080/h2-console
 **Credenciais padrão:**
 
 - **JDBC URL:** `jdbc:h2:mem:testdb`
-- **User:** `sa`
+- **User:** `ntek`
 - **Password:** *(em branco)*
 
 ---
